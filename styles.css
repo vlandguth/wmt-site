@@ -11,6 +11,11 @@ body{
   background: whitesmoke;
 }
 
+header .logo{
+  width:50px;
+  height:75px;
+}
+
 
 main{
   margin:0 auto;
